@@ -1,5 +1,5 @@
 Ceci est un texte
 
-Blablablabla
-
 Bonjour salut
+
+lorem ipsum :-)	
